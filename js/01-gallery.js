@@ -22,8 +22,7 @@ function createCards(galleryItems) {
   </a>
 </div>
 `;
-    })
-        .join('');
+    }).join('');
 }
  
 
